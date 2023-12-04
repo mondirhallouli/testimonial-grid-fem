@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/mondirhallouli/testimonial-grid-fem)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://testimonial-grid-fem.pages.dev/)
 
 ## My process
 
